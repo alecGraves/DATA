@@ -1,0 +1,391 @@
+﻿Number of labels: 77https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_035.jpg
+start_gate 94 26 531 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_036.jpg
+start_gate 70 36 515 258
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_037.jpg
+start_gate 45 17 492 238
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_039.jpg
+start_gate 40 42 497 267
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_042.jpg
+start_gate 55 74 543 318
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_068.jpg
+yellow_buoy 215 222 235 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_074.jpg
+yellow_buoy 158 108 181 129
+red_buoy 272 140 296 165
+path_marker 218 245 265 280
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_083.jpg
+yellow_buoy 224 105 251 143
+red_buoy 353 134 380 174
+green_buoy 481 99 509 132
+path_marker 273 251 331 298
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_084.jpg
+yellow_buoy 208 101 240 143
+red_buoy 341 121 372 158
+green_buoy 465 78 498 113
+path_marker 259 242 329 289
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_085.jpg
+yellow_buoy 162 111 198 153
+green_buoy 433 68 462 100
+red_buoy 304 122 339 163
+path_marker 222 252 311 296
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_088.jpg
+red_buoy 102 81 140 117
+green_buoy 231 1 260 36
+path_marker 42 234 129 275
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_094.jpg
+path_marker 169 311 400 479
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_097.jpg
+path_marker 172 228 269 281
+yellow_buoy 122 81 157 123
+red_buoy 275 86 308 123
+green_buoy 413 18 442 56
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_100.jpg
+yellow_buoy 236 75 275 127
+red_buoy 387 86 422 131
+green_buoy 532 24 569 66
+path_marker 270 218 373 287
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_101.jpg
+yellow_buoy 246 63 288 118
+red_buoy 400 81 436 124
+green_buoy 546 16 585 63
+path_marker 280 213 375 269
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_104.jpg
+yellow_buoy 233 50 279 108
+red_buoy 394 70 433 122
+green_buoy 553 11 588 63
+path_marker 231 191 341 266
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_106.jpg
+yellow_buoy 247 76 297 139
+red_buoy 415 89 454 143
+green_buoy 576 19 613 64
+path_marker 226 219 350 295
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_108.jpg
+yellow_buoy 235 115 285 182
+red_buoy 405 123 446 176
+green_buoy 572 40 611 89
+path_marker 185 253 323 330
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_111.jpg
+yellow_buoy 391 146 452 221
+red_buoy 562 124 611 186
+path_marker 295 276 462 356
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_113.jpg
+yellow_buoy 387 191 460 274
+red_buoy 557 142 609 209
+path_marker 253 327 444 400
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_125.jpg
+yellow_buoy 327 238 399 330
+red_buoy 458 163 515 232
+green_buoy 587 2 636 65
+path_marker 87 368 298 437
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_126.jpg
+yellow_buoy 540 174 614 272
+path_marker 278 276 483 366
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_127.jpg
+channel 343 5 95 262
+path_marker 232 347 105 411
+path_marker 216 383 102 468
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_128.jpg
+path_marker 389 319 594 417
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_129.jpg
+channel 363 2 123 246
+path_marker 254 330 118 389
+path_marker 228 363 113 447
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_130.jpg
+yellow_buoy 543 231 625 330
+start_gate 243 301 456 407
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_131.jpg
+channel 363 3 122 236
+path_marker 249 321 113 379
+path_marker 225 356 109 437
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_132.jpg
+yellow_buoy 439 240 522 354
+red_buoy 564 167 627 250
+path_marker 113 306 329 410
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_133.jpg
+channel 378 1 137 237
+path_marker 260 321 125 379
+path_marker 237 355 125 438
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_134.jpg
+path_marker 252 79 115 139
+path_marker 229 116 115 201
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_136.jpg
+red_buoy 438 404 495 471
+green_buoy 573 241 624 306
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_137.jpg
+red_buoy 572 401 625 470
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_138.jpg
+yellow_buoy 460 257 534 354
+red_buoy 519 178 575 248
+path_marker 54 343 278 431
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_139.jpg
+path_marker 224 352 452 451
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_141.jpg
+channel 459 163 245 423
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_142.jpg
+channel 487 21 271 275
+path_marker 341 361 199 416
+path_marker 322 395 201 476
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_143.jpg
+channel 362 185 137 448
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_144.jpg
+channel 461 133 235 410
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_145.jpg
+channel 254 141 14 430
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_146.jpg
+channel 527 132 275 425
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_147.jpg
+channel 565 34 302 342
+path_marker 402 415 238 473
+path_marker 376 459 323 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_148.jpg
+channel 602 115 325 440
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_160.jpg
+channel 569 11 75 425
+path_marker 38 431 256 472
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_141.jpg
+channel 460 162 245 424
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_142.jpg
+channel 481 16 268 277
+path_marker 345 358 199 412
+path_marker 323 393 195 477
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_143.jpg
+channel 356 182 137 453
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_144.jpg
+channel 462 131 235 408
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_145.jpg
+channel 254 141 12 432
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_146.jpg
+channel 523 129 279 423
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_147.jpg
+channel 563 29 301 341
+path_marker 403 412 235 473
+path_marker 376 456 325 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_148.jpg
+channel 603 115 323 444
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_160.jpg
+channel 569 11 75 424
+path_marker 36 431 256 475
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_130.jpg
+yellow_buoy 542 231 625 329
+path_marker 241 304 456 405
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_131.jpg
+channel 365 3 120 238
+path_marker 247 324 110 379
+path_marker 226 357 107 437
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_132.jpg
+yellow_buoy 444 246 524 345
+red_buoy 561 168 627 245
+path_marker 112 306 331 410
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_133.jpg
+channel 378 1 131 236
+path_marker 264 316 126 385
+path_marker 243 352 125 442
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_134.jpg
+path_marker 253 79 116 141
+path_marker 231 116 117 199
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_136.jpg
+red_buoy 442 403 496 471
+green_buoy 571 239 622 301
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_137.jpg
+red_buoy 571 401 625 471
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_138.jpg
+yellow_buoy 459 260 535 351
+red_buoy 517 179 575 253
+path_marker 55 342 278 429
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_139.jpg
+path_marker 224 354 453 448
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_141.jpg
+channel 462 161 239 423
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_142.jpg
+channel 481 18 270 280
+path_marker 339 362 198 417
+path_marker 320 392 199 476
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_143.jpg
+channel 362 178 137 452
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_144.jpg
+channel 462 135 235 406
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_145.jpg
+channel 251 139 12 433
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_146.jpg
+channel 528 128 280 423
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_147.jpg
+channel 566 31 303 343
+path_marker 402 411 238 476
+path_marker 375 454 325 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_148.jpg
+channel 604 116 324 440
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_160.jpg
+channel 570 11 80 425
+path_marker 36 427 256 475
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_145.jpg
+channel 251 137 11 433
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_146.jpg
+channel 523 127 275 423
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_147.jpg
+channel 565 31 298 338
+path_marker 405 413 236 474
+path_marker 375 453 326 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_148.jpg
+channel 596 115 322 444
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_160.jpg
+channel 573 8 75 427
+path_marker 36 430 255 471
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_042.jpg
+start_gate 54 81 547 326
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_068.jpg
+yellow_buoy 210 221 237 251
+
+

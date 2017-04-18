@@ -1,0 +1,1342 @@
+﻿Number of labels: 201https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0256.jpg
+channel 12 177 146 266
+red_buoy 13 301 91 383
+green_buoy 344 219 409 292
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0257.jpg
+channel 21 175 152 263
+red_buoy 16 300 95 381
+green_buoy 351 214 419 284
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0258.jpg
+channel 21 172 154 259
+red_buoy 17 303 95 384
+green_buoy 355 218 420 290
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0259.jpg
+channel 22 172 154 257
+red_buoy 14 305 95 390
+green_buoy 358 219 423 296
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0260.jpg
+channel 19 170 155 256
+red_buoy 10 311 95 397
+green_buoy 357 222 425 294
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0261.jpg
+channel 17 164 155 253
+red_buoy 8 316 88 402
+green_buoy 358 226 424 299
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0262.jpg
+channel 20 169 155 253
+red_buoy 8 320 78 408
+green_buoy 356 221 428 300
+path_marker 83 415 121 480
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0263.jpg
+red_buoy 74 320 8 413
+green_buoy 353 228 428 307
+channel 20 166 154 258
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0264.jpg
+red_buoy 65 327 9 428
+path_marker 82 430 116 477
+green_buoy 361 231 435 315
+channel 18 164 153 261
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0265.jpg
+red_buoy 56 337 11 426
+path_marker 85 424 116 478
+green_buoy 356 226 442 321
+channel 15 163 159 261
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0266.jpg
+red_buoy 48 338 7 435
+path_marker 75 431 110 480
+green_buoy 368 236 440 321
+channel 13 163 151 261
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0267.jpg
+red_buoy 35 350 8 433
+path_marker 77 439 112 477
+green_buoy 365 230 442 321
+channel 15 163 153 256
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0268.jpg
+red_buoy 18 355 9 413
+path_marker 76 440 104 478
+channel 15 172 149 255
+green_buoy 359 234 442 327
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0269.jpg
+path_marker 69 445 102 478
+green_buoy 356 225 445 322
+channel 11 163 145 264
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0270.jpg
+green_buoy 355 232 444 324
+channel 9 167 144 258
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0271.jpg
+green_buoy 355 232 437 340
+channel 144 173 10 261
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0272.jpg
+green_buoy 347 238 437 341
+channel 135 173 10 266
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0273.jpg
+green_buoy 339 231 429 335
+channel 132 170 10 265
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0274.jpg
+green_buoy 339 221 430 329
+channel 125 165 10 267
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0275.jpg
+green_buoy 334 220 431 321
+channel 123 180 11 264
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0276.jpg
+green_buoy 327 217 422 313
+channel 124 158 9 266
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0282.jpg
+green_buoy 321 181 422 305
+channel 115 156 9 268
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0288.jpg
+green_buoy 315 168 421 284
+channel 112 140 9 258
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0298.jpg
+green_buoy 294 130 413 257
+channel 98 161 9 273
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0299.jpg
+green_buoy 296 123 425 274
+channel 111 159 11 265
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0304.jpg
+green_buoy 338 121 479 275
+channel 141 134 10 253
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0305.jpg
+green_buoy 347 127 494 291
+channel 133 139 9 256
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0306.jpg
+green_buoy 360 137 514 307
+channel 142 151 10 254
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0331.jpg
+green_buoy 352 271 446 376
+channel 27 228 165 331
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0332.jpg
+green_buoy 354 275 447 366
+channel 43 225 174 323
+red_buoy 23 365 8 426
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0337.jpg
+channel 69 202 196 296
+green_buoy 357 235 415 313
+red_buoy 78 299 142 367
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0338.jpg
+red_buoy 99 285 155 348
+green_buoy 359 228 412 283
+channel 81 201 196 289
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0343.jpg
+path_marker 144 381 178 460
+red_buoy 134 232 182 280
+green_buoy 359 181 406 231
+channel 85 171 202 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0344.jpg
+red_buoy 135 223 185 276
+green_buoy 349 177 396 232
+channel 84 172 203 251
+path_marker 153 383 185 453
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0349.jpg
+channel 113 202 227 277
+red_buoy 180 285 229 334
+green_buoy 376 241 419 291
+path_marker 176 409 208 476
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0350.jpg
+red_buoy 193 302 239 353
+green_buoy 387 260 425 309
+channel 121 207 232 284
+path_marker 188 423 210 477
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0351.jpg
+red_buoy 202 306 247 352
+green_buoy 387 269 430 312
+channel 125 202 236 284
+path_marker 192 425 217 480
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0352.jpg
+channel 130 204 245 283
+red_buoy 208 310 250 355
+green_buoy 394 266 435 316
+path_marker 197 413 224 476
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0353.jpg
+channel 138 195 246 278
+red_buoy 215 303 256 348
+green_buoy 395 265 435 310
+path_marker 205 408 229 470
+yellow_buoy 18 342 9 380
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0354.jpg
+channel 137 187 251 267
+red_buoy 215 301 259 344
+green_buoy 397 261 435 309
+path_marker 205 396 228 463
+yellow_buoy 26 333 10 381
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0360.jpg
+yellow_buoy 14 304 59 351
+red_buoy 241 271 275 314
+green_buoy 415 237 445 276
+channel 162 179 267 256
+path_marker 225 378 254 440
+path_marker 583 341 600 381
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0366.jpg
+yellow_buoy 26 315 72 355
+green_buoy 411 241 451 283
+red_buoy 243 279 279 322
+channel 165 199 273 269
+path_marker 233 391 255 454
+path_marker 585 343 606 372
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0367.jpg
+red_buoy 240 278 278 323
+green_buoy 415 241 446 281
+yellow_buoy 25 309 69 358
+path_marker 233 392 252 449
+path_marker 588 344 605 375
+channel 168 202 274 270
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0368.jpg
+red_buoy 235 279 275 319
+green_buoy 405 241 443 277
+yellow_buoy 25 308 69 348
+path_marker 232 393 250 454
+path_marker 588 340 607 375
+channel 167 201 270 271
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0369.jpg
+red_buoy 238 273 274 314
+green_buoy 402 236 440 279
+yellow_buoy 27 301 64 345
+path_marker 227 383 253 448
+path_marker 588 341 609 378
+channel 166 189 268 267
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0381.jpg
+red_buoy 217 249 255 287
+green_buoy 378 218 410 250
+yellow_buoy 49 278 9 319
+path_marker 205 374 230 437
+path_marker 593 343 612 378
+channel 145 189 250 261
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0397.jpg
+red_buoy 214 245 247 282
+green_buoy 368 211 399 248
+yellow_buoy 47 273 10 313
+path_marker 204 353 225 413
+path_marker 585 341 605 397
+channel 138 175 241 244
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0403.jpg
+red_buoy 210 245 248 285
+green_buoy 365 212 401 248
+yellow_buoy 9 271 46 313
+path_marker 190 347 222 421
+path_marker 583 343 607 400
+channel 133 181 238 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0404.jpg
+red_buoy 212 244 245 284
+green_buoy 365 212 396 247
+yellow_buoy 8 276 47 317
+path_marker 194 363 224 421
+path_marker 585 339 607 397
+channel 135 182 234 253
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0420.jpg
+red_buoy 210 245 245 284
+green_buoy 362 214 398 255
+yellow_buoy 19 276 57 315
+path_marker 201 355 229 421
+path_marker 588 343 610 406
+channel 135 181 242 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0426.jpg
+red_buoy 215 244 245 282
+green_buoy 362 210 391 248
+yellow_buoy 20 272 54 311
+path_marker 201 354 230 424
+path_marker 595 342 614 410
+channel 142 179 243 252
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0427.jpg
+red_buoy 215 244 244 282
+green_buoy 359 211 396 251
+yellow_buoy 17 271 57 313
+path_marker 204 352 226 420
+path_marker 596 342 615 408
+channel 142 179 242 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0428.jpg
+red_buoy 212 243 247 285
+green_buoy 360 211 395 254
+yellow_buoy 24 271 62 311
+path_marker 201 353 225 418
+path_marker 592 341 615 411
+channel 145 180 244 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0429.jpg
+red_buoy 226 245 261 281
+green_buoy 373 214 410 255
+yellow_buoy 35 272 81 312
+path_marker 216 353 240 416
+path_marker 595 342 616 406
+channel 156 186 259 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0430.jpg
+red_buoy 259 250 289 283
+green_buoy 411 220 448 251
+yellow_buoy 75 271 125 308
+path_marker 250 350 271 416
+path_marker 605 341 620 415
+channel 187 177 295 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0431.jpg
+red_buoy 314 251 343 281
+green_buoy 465 224 499 256
+yellow_buoy 136 264 167 306
+path_marker 295 361 315 417
+path_marker 610 341 628 417
+channel 240 181 340 255
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0436.jpg
+red_buoy 447 244 479 278
+green_buoy 615 216 639 252
+yellow_buoy 264 256 298 292
+path_marker 414 355 437 413
+path_marker 593 342 638 431
+channel 357 175 455 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0437.jpg
+red_buoy 467 244 501 281
+yellow_buoy 289 256 317 293
+path_marker 427 341 457 412
+path_marker 598 341 639 429
+channel 373 175 474 252
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0442.jpg
+red_buoy 545 247 581 288
+yellow_buoy 357 260 389 297
+path_marker 593 357 639 436
+channel 444 173 545 258
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0443.jpg
+yellow_buoy 362 260 394 292
+red_buoy 549 247 589 288
+path_marker 587 359 640 442
+channel 445 173 554 254
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0444.jpg
+red_buoy 550 246 584 282
+yellow_buoy 363 256 394 295
+channel 448 181 550 255
+path_marker 591 361 638 440
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0450.jpg
+yellow_buoy 335 261 367 296
+red_buoy 522 250 555 288
+channel 418 173 525 254
+path_marker 592 354 638 441
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0456.jpg
+red_buoy 507 249 539 290
+yellow_buoy 317 260 353 298
+channel 413 173 515 255
+path_marker 597 356 638 437
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0462.jpg
+red_buoy 450 249 481 285
+green_buoy 616 219 639 258
+yellow_buoy 264 263 295 299
+path_marker 410 351 436 418
+path_marker 601 341 639 426
+channel 357 183 461 255
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0463.jpg
+red_buoy 443 246 472 282
+green_buoy 607 221 639 258
+yellow_buoy 258 264 288 297
+path_marker 405 355 433 422
+path_marker 600 339 638 426
+channel 353 177 459 257
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0464.jpg
+red_buoy 429 247 464 284
+green_buoy 594 217 636 256
+yellow_buoy 247 260 279 299
+path_marker 401 358 420 419
+path_marker 603 341 640 421
+channel 345 180 446 254
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0465.jpg
+red_buoy 423 242 455 281
+green_buoy 593 217 628 257
+yellow_buoy 242 261 275 298
+path_marker 393 350 425 422
+channel 336 181 442 253
+path_marker 595 341 639 425
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0466.jpg
+red_buoy 417 245 452 281
+green_buoy 586 216 625 256
+yellow_buoy 240 258 272 299
+path_marker 388 341 414 417
+path_marker 604 343 638 424
+channel 339 176 441 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0467.jpg
+green_buoy 581 213 621 254
+yellow_buoy 235 259 265 296
+red_buoy 415 244 447 278
+path_marker 386 348 413 413
+path_marker 601 342 639 425
+channel 332 178 436 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0468.jpg
+yellow_buoy 232 256 265 294
+green_buoy 578 214 617 253
+red_buoy 414 241 445 279
+path_marker 388 358 408 411
+path_marker 605 341 638 422
+channel 331 182 434 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0469.jpg
+yellow_buoy 228 258 263 297
+red_buoy 410 242 445 282
+green_buoy 575 211 611 254
+path_marker 381 339 409 419
+path_marker 599 342 638 424
+channel 329 180 430 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0470.jpg
+yellow_buoy 224 257 256 297
+green_buoy 570 211 609 254
+red_buoy 406 243 440 276
+path_marker 385 360 404 414
+path_marker 605 343 636 420
+channel 331 179 425 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0471.jpg
+yellow_buoy 221 260 257 299
+green_buoy 566 217 602 259
+red_buoy 401 242 437 281
+path_marker 377 350 402 419
+path_marker 609 342 638 420
+channel 318 180 426 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0472.jpg
+yellow_buoy 215 262 247 299
+green_buoy 556 217 596 260
+red_buoy 397 248 430 281
+path_marker 376 360 395 424
+path_marker 605 341 637 418
+channel 317 179 419 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0477.jpg
+yellow_buoy 162 259 198 301
+green_buoy 504 211 539 248
+red_buoy 343 239 380 272
+path_marker 330 352 351 411
+path_marker 604 340 635 421
+channel 271 172 377 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0478.jpg
+yellow_buoy 155 257 190 299
+green_buoy 495 206 533 248
+red_buoy 335 236 372 275
+channel 266 176 370 250
+path_marker 322 354 344 413
+path_marker 606 341 634 421
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0483.jpg
+red_buoy 307 241 345 283
+green_buoy 466 210 503 254
+yellow_buoy 127 266 161 305
+path_marker 302 351 320 411
+path_marker 609 339 636 410
+channel 241 179 347 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0484.jpg
+red_buoy 306 242 341 280
+green_buoy 468 208 499 250
+yellow_buoy 126 266 161 301
+path_marker 294 352 320 412
+path_marker 601 340 633 411
+channel 241 180 347 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0490.jpg
+red_buoy 297 235 329 271
+green_buoy 455 204 484 247
+yellow_buoy 110 260 145 299
+path_marker 289 357 311 411
+path_marker 610 343 636 414
+channel 235 177 335 242
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0496.jpg
+red_buoy 295 241 326 279
+green_buoy 449 209 482 249
+yellow_buoy 107 262 143 307
+path_marker 283 358 308 411
+path_marker 612 344 635 406
+channel 227 184 331 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0502.jpg
+red_buoy 293 233 325 276
+green_buoy 453 207 489 249
+yellow_buoy 106 258 145 299
+path_marker 281 336 306 412
+path_marker 615 342 635 410
+channel 225 173 334 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0503.jpg
+yellow_buoy 107 261 143 300
+green_buoy 449 210 485 250
+red_buoy 292 240 327 279
+path_marker 285 352 306 416
+channel 229 171 329 250
+path_marker 607 343 634 411
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0509.jpg
+yellow_buoy 99 257 138 297
+green_buoy 445 206 482 247
+red_buoy 290 234 324 272
+channel 227 171 326 246
+path_marker 282 341 301 408
+path_marker 610 342 634 409
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0515.jpg
+yellow_buoy 99 266 136 302
+green_buoy 438 211 478 251
+red_buoy 285 241 318 281
+path_marker 277 361 299 419
+path_marker 612 341 630 413
+channel 226 183 326 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0516.jpg
+yellow_buoy 97 261 134 301
+green_buoy 439 211 475 250
+red_buoy 285 241 316 279
+channel 220 184 326 250
+path_marker 278 361 298 429
+path_marker 612 341 635 411
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0517.jpg
+yellow_buoy 98 262 133 301
+green_buoy 438 209 479 246
+red_buoy 282 240 317 277
+path_marker 280 347 298 416
+path_marker 611 343 633 405
+channel 224 181 324 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0518.jpg
+yellow_buoy 97 261 130 304
+green_buoy 440 207 477 249
+red_buoy 282 234 317 275
+path_marker 277 346 295 414
+path_marker 611 342 637 410
+channel 223 180 324 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0519.jpg
+red_buoy 279 235 309 272
+green_buoy 435 209 467 243
+yellow_buoy 93 260 130 304
+path_marker 273 362 294 418
+path_marker 609 342 632 410
+channel 218 179 317 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0520.jpg
+red_buoy 267 235 302 272
+green_buoy 428 203 462 245
+yellow_buoy 81 259 118 303
+path_marker 265 358 285 409
+path_marker 611 344 632 407
+channel 209 177 308 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0521.jpg
+red_buoy 256 233 294 270
+green_buoy 415 200 448 239
+yellow_buoy 69 260 108 298
+path_marker 255 350 275 408
+path_marker 614 341 631 408
+channel 198 178 298 242
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0522.jpg
+red_buoy 245 236 276 271
+green_buoy 403 202 437 242
+yellow_buoy 53 258 95 298
+path_marker 245 347 267 409
+path_marker 607 337 633 407
+channel 187 173 285 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0523.jpg
+red_buoy 232 239 265 270
+green_buoy 389 205 421 239
+yellow_buoy 42 261 78 301
+path_marker 236 350 251 411
+path_marker 613 340 629 403
+channel 179 181 284 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0524.jpg
+red_buoy 226 240 254 274
+green_buoy 381 204 415 241
+yellow_buoy 32 263 70 301
+path_marker 224 342 253 410
+path_marker 610 341 628 403
+channel 170 178 270 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0525.jpg
+red_buoy 214 238 252 277
+green_buoy 373 205 410 242
+yellow_buoy 23 265 58 306
+path_marker 221 349 241 417
+path_marker 609 340 632 401
+channel 165 175 265 252
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0526.jpg
+red_buoy 213 240 245 275
+green_buoy 368 204 405 241
+yellow_buoy 14 268 54 304
+path_marker 215 346 232 418
+path_marker 611 340 632 395
+channel 154 178 258 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0527.jpg
+yellow_buoy 9 269 45 308
+green_buoy 362 208 395 245
+red_buoy 208 241 238 273
+path_marker 211 346 228 411
+path_marker 605 341 629 396
+channel 154 184 255 253
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0528.jpg
+yellow_buoy 8 267 36 305
+green_buoy 354 208 389 243
+red_buoy 201 237 232 279
+path_marker 205 347 224 416
+path_marker 609 342 629 395
+channel 148 180 248 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0529.jpg
+yellow_buoy 8 265 31 303
+green_buoy 353 202 384 244
+red_buoy 197 236 231 274
+path_marker 202 339 221 414
+path_marker 608 340 629 397
+channel 142 177 248 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0530.jpg
+yellow_buoy 8 265 28 305
+green_buoy 350 203 380 241
+red_buoy 192 235 225 275
+path_marker 196 346 218 413
+path_marker 609 344 625 393
+channel 139 172 241 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0531.jpg
+yellow_buoy 9 265 24 305
+green_buoy 345 199 376 241
+red_buoy 187 232 220 273
+path_marker 193 338 214 411
+path_marker 608 341 630 397
+channel 136 171 239 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0532.jpg
+red_buoy 181 237 216 272
+green_buoy 341 201 370 238
+path_marker 190 346 207 419
+path_marker 609 342 628 395
+channel 131 179 235 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0533.jpg
+red_buoy 173 241 205 274
+green_buoy 331 202 361 242
+path_marker 175 351 202 423
+path_marker 606 341 628 393
+channel 125 179 225 249
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0534.jpg
+red_buoy 157 240 190 280
+green_buoy 315 205 349 242
+path_marker 605 343 625 390
+channel 111 180 219 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0535.jpg
+red_buoy 143 243 175 280
+green_buoy 299 204 332 242
+path_marker 604 341 626 390
+channel 90 183 199 253
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0536.jpg
+red_buoy 133 244 164 281
+green_buoy 290 208 322 242
+path_marker 605 343 625 387
+channel 84 188 196 253
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0543.jpg
+red_buoy 76 242 115 279
+green_buoy 243 201 276 245
+path_marker 595 337 626 389
+channel 33 183 146 255
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0544.jpg
+red_buoy 71 240 106 278
+green_buoy 236 207 272 242
+path_marker 599 343 625 386
+channel 29 173 142 252
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0549.jpg
+red_buoy 28 247 69 283
+green_buoy 203 201 234 239
+path_marker 597 341 620 383
+channel 104 195 11 256
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0550.jpg
+red_buoy 14 246 57 291
+green_buoy 189 202 226 241
+channel 97 185 11 254
+path_marker 615 344 598 375
+path_marker 37 378 66 442
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0567.jpg
+green_buoy 88 203 128 244
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0568.jpg
+green_buoy 88 207 129 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0569.jpg
+green_buoy 81 204 120 252
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0570.jpg
+green_buoy 90 206 125 248
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0571.jpg
+green_buoy 91 203 130 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0572.jpg
+green_buoy 97 206 140 242
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0573.jpg
+green_buoy 102 205 144 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0574.jpg
+green_buoy 107 204 150 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0575.jpg
+green_buoy 112 204 150 244
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0576.jpg
+green_buoy 115 204 150 250
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0577.jpg
+green_buoy 115 202 151 241
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0578.jpg
+green_buoy 113 204 153 244
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0579.jpg
+green_buoy 113 204 148 244
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0580.jpg
+green_buoy 113 201 149 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0581.jpg
+green_buoy 111 204 149 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0582.jpg
+green_buoy 107 203 148 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0583.jpg
+green_buoy 104 203 147 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0584.jpg
+green_buoy 89 202 124 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0615.jpg
+green_buoy 43 193 85 235
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0616.jpg
+green_buoy 83 191 120 233
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0617.jpg
+green_buoy 127 191 162 235
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0618.jpg
+green_buoy 152 195 187 234
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0619.jpg
+green_buoy 176 195 213 236
+red_buoy 37 243 10 283
+channel 73 169 8 252
+path_marker 21 383 45 454
+path_marker 579 339 605 371
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0620.jpg
+red_buoy 20 246 66 287
+green_buoy 204 201 240 242
+channel 94 186 9 257
+path_marker 575 341 600 376
+path_marker 50 371 75 444
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0621.jpg
+red_buoy 51 248 90 287
+green_buoy 227 201 259 244
+channel 115 167 10 258
+path_marker 73 367 91 440
+path_marker 579 341 605 373
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0622.jpg
+channel 18 186 136 255
+red_buoy 75 245 114 285
+green_buoy 248 203 282 252
+path_marker 583 341 605 374
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0623.jpg
+channel 37 182 155 253
+red_buoy 92 241 133 281
+green_buoy 262 203 300 249
+path_marker 589 341 611 371
+path_marker 105 360 123 436
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0624.jpg
+channel 56 175 165 252
+red_buoy 115 239 150 281
+green_buoy 285 209 315 244
+path_marker 121 363 141 433
+path_marker 589 340 611 377
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0625.jpg
+channel 65 166 178 251
+red_buoy 126 241 164 281
+green_buoy 295 201 332 246
+path_marker 130 352 160 427
+path_marker 590 342 612 372
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0626.jpg
+channel 84 179 191 248
+red_buoy 145 239 177 282
+green_buoy 313 198 344 240
+path_marker 145 349 179 427
+path_marker 586 336 609 371
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0631.jpg
+channel 98 164 207 238
+red_buoy 152 231 192 271
+green_buoy 334 190 370 235
+path_marker 158 351 183 431
+path_marker 594 342 611 370
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0632.jpg
+channel 103 167 213 247
+red_buoy 155 238 195 281
+green_buoy 336 197 373 240
+path_marker 162 359 186 432
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0637.jpg
+channel 99 179 211 252
+red_buoy 163 246 201 297
+green_buoy 346 205 385 250
+path_marker 164 351 195 441
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0638.jpg
+channel 100 169 210 248
+red_buoy 157 241 198 288
+green_buoy 345 202 385 247
+path_marker 168 357 184 437
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0643.jpg
+channel 107 151 223 235
+red_buoy 180 211 216 255
+green_buoy 374 174 411 220
+path_marker 177 359 195 420
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0644.jpg
+channel 117 166 227 241
+red_buoy 185 216 230 266
+green_buoy 379 178 416 230
+path_marker 181 370 202 426
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0649.jpg
+channel 131 186 245 264
+red_buoy 213 238 260 282
+green_buoy 404 198 450 243
+path_marker 194 374 222 453
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0650.jpg
+channel 129 179 245 258
+red_buoy 215 237 262 277
+green_buoy 413 193 449 239
+path_marker 200 381 223 441
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0655.jpg
+channel 131 159 243 246
+red_buoy 229 236 273 285
+green_buoy 421 192 465 244
+path_marker 205 359 228 428
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0656.jpg
+red_buoy 234 240 275 291
+green_buoy 422 196 464 247
+path_marker 205 369 232 441
+yellow_buoy 21 271 8 322
+channel 131 163 241 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0661.jpg
+red_buoy 239 237 282 286
+green_buoy 430 202 467 248
+yellow_buoy 26 278 7 328
+path_marker 206 369 235 435
+channel 130 161 237 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0662.jpg
+red_buoy 245 235 283 282
+green_buoy 432 198 467 238
+path_marker 203 358 232 430
+yellow_buoy 27 271 8 323
+channel 134 161 236 246
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0667.jpg
+yellow_buoy 38 270 11 327
+green_buoy 445 192 473 233
+red_buoy 249 235 295 283
+path_marker 205 358 236 433
+channel 129 160 239 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0668.jpg
+channel 122 167 243 250
+green_buoy 443 191 477 237
+red_buoy 254 235 296 281
+path_marker 197 354 241 441
+yellow_buoy 42 273 6 332
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0673.jpg
+channel 137 176 248 250
+red_buoy 269 231 314 283
+green_buoy 457 191 498 235
+path_marker 219 368 256 440
+yellow_buoy 52 274 10 331
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0674.jpg
+channel 138 167 252 247
+yellow_buoy 55 268 9 325
+path_marker 220 362 255 434
+red_buoy 269 225 313 281
+green_buoy 465 188 502 236
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0704.jpg
+red_buoy 268 221 341 298
+green_buoy 568 161 631 237
+path_marker 204 393 246 480
+channel 125 153 244 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0710.jpg
+red_buoy 252 211 324 288
+green_buoy 565 145 634 223
+path_marker 194 411 236 478
+channel 111 156 235 251
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0720.jpg
+path_marker 208 400 242 476
+red_buoy 251 208 351 314
+channel 120 140 249 240
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0721.jpg
+path_marker 206 411 242 480
+channel 125 144 250 241
+red_buoy 254 209 354 328
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0726.jpg
+red_buoy 242 216 368 356
+path_marker 205 417 239 479
+channel 125 144 251 240
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0727.jpg
+red_buoy 239 211 368 358
+path_marker 206 413 237 478
+channel 124 150 256 238
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0732.jpg
+red_buoy 213 161 363 340
+path_marker 200 423 233 478
+channel 118 143 257 247
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0733.jpg
+channel 118 149 252 245
+red_buoy 205 157 364 333
+path_marker 197 427 231 481
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0738.jpg
+channel 102 148 270 267
+red_buoy 113 137 363 411
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0739.jpg
+red_buoy 52 121 375 467
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0776.jpg
+red_buoy 205 281 325 416
+path_marker 216 422 242 478
+channel 128 147 262 241
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0777.jpg
+red_buoy 224 313 337 445
+path_marker 222 417 254 478
+channel 140 150 267 243
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0778.jpg
+channel 144 156 276 240
+red_buoy 254 353 351 471
+path_marker 228 421 256 477
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0780.jpg
+channel 160 147 289 245
+red_buoy 277 432 379 479
+path_marker 243 431 272 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0781.jpg
+channel 169 157 302 251
+path_marker 257 434 277 478
+red_buoy 373 463 306 480
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0787.jpg
+channel 175 207 302 295
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0793.jpg
+channel 153 262 282 351
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0799.jpg
+channel 183 216 306 307
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0805.jpg
+channel 180 221 308 315
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0811.jpg
+channel 175 214 305 303
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0817.jpg
+channel 210 180 337 274
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0823.jpg
+channel 188 193 333 302
+red_buoy 550 397 596 449
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0829.jpg
+channel 164 208 325 328
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0835.jpg
+channel 137 220 303 340
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0841.jpg
+channel 101 234 278 367
+path_marker 579 437 606 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0847.jpg
+channel 94 241 281 386
+path_marker 586 400 617 477
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0853.jpg
+channel 112 181 296 308
+path_marker 584 407 615 480
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0859.jpg
+channel 110 151 302 293
+path_marker 589 420 618 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0865.jpg
+path_marker 582 432 608 479
+channel 157 101 352 245
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0871.jpg
+channel 167 136 363 281
+path_marker 560 405 582 479
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0877.jpg
+path_marker 555 388 575 480
+channel 201 131 408 277
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0883.jpg
+channel 195 136 410 285
+path_marker 543 371 561 477
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0889.jpg
+channel 180 138 387 285
+path_marker 535 370 557 481
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0895.jpg
+channel 171 137 385 286
+path_marker 532 368 555 480
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0901.jpg
+channel 177 131 385 281
+path_marker 527 365 547 479
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0907.jpg
+channel 189 131 399 282
+path_marker 518 364 545 479
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0913.jpg
+path_marker 518 361 538 479
+channel 222 130 430 281
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0919.jpg
+channel 242 131 463 286
+path_marker 518 359 533 479
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0925.jpg
+path_marker 504 355 528 479
+channel 271 131 492 289
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0931.jpg
+channel 278 134 493 288
+path_marker 497 357 529 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0937.jpg
+channel 271 137 501 288
+path_marker 501 355 532 478
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0943.jpg
+channel 285 160 508 315
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0949.jpg
+path_marker 506 367 530 479
+channel 281 124 508 286
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0955.jpg
+channel 271 148 519 320
+path_marker 520 342 545 456
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0961.jpg
+channel 261 141 514 327
+path_marker 524 341 543 421
+
+
+https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0967.jpg
+channel 241 121 527 321
+path_marker 527 342 554 401
+
+
