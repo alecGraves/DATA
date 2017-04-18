@@ -16,9 +16,9 @@ with open('url.txt', 'w') as f:
     f.write('\n')
 
     for i in dirs:
-        images = os.listdir('./data/'+i)
+        images = os.listdir(os.path.join('data',i))
         for name in images:
             if " " in name:
-                os.rename(os.path.join(i, name), os.path.join(i, name.replace(" ", "_")))
+                os.rename(os.path.join('data',i, name), os.path.join('data',i, name.replace(" ", "_")))
             f.write('https://github.com/shadySource/DATA/raw/master/data/'+i+'/'+name+' ')
         f.write('\n')
