@@ -1,10 +1,10 @@
 """
-updates url.txt for the data labeling tool on my website
+updates url.txt for the open data labeling tool on shadysource.github.io
 """
 import os
 
 os.remove('url.txt')
-dirs = os.listdir()
+dirs = os.listdir('data')
 
 for i in dirs:
     if '.' in i:
@@ -20,9 +20,9 @@ with open('url.txt', 'w') as f:
     f.write('\n')
 
     for i in dirs:
-        images = os.listdir(i)
+        images = os.listdir('./data/'+i)
         for name in images:
             if " " in name:
                 os.rename(os.path.join(i, name), os.path.join(i, name.replace(" ", "_")))
-            f.write('https://github.com/shadySource/DATA/raw/master/'+i+'/'+name+' ')
+            f.write('https://github.com/shadySource/DATA/raw/master/data/'+i+'/'+name+' ')
         f.write('\n')
