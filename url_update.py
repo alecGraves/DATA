@@ -10,10 +10,6 @@ for i in dirs:
     if '.' in i:
         dirs.remove(i)
 
-for i in dirs:
-    if not os.path.isdir(i):
-        dirs.remove(i)
-
 with open('url.txt', 'w') as f:
     for i in dirs:
         f.write(i + ' ')
