@@ -64,7 +64,7 @@ for i, label in enumerate(image_labels):
 images = np.asarray(images)
 image_labels = [np.asarray(i[1:]) for i in image_labels]# remove the file names
 
-print(sys.getsizeof(images), "bytes")
+print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
 #save dataset
 split = int(len(images)*.8)
 
