@@ -53,8 +53,6 @@ images = []
 for i, label in enumerate(image_labels):
     img = np.array(PIL.Image.open(os.path.join('data', label[0][0], label[0][1])))
     images.append(img)
-    if i == 9:
-        break
 
 #convert to numpy for saving
 images = np.asarray(images)
