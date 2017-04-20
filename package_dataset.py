@@ -1,3 +1,11 @@
+'''
+    This program packages the labels and images 
+from the underwater dataset and converts them 
+to a hdf5 database file.
+
+    Thanks, Thomas, for labeling all of those images.
+        -shadySource
+'''
 import os
 import h5py
 import PIL.Image
@@ -8,10 +16,7 @@ import numpy as np
 label_dict = {"red_buoy":0, "green_buoy":1, "yellow_buoy":2, 
             "path_marker":3, "start_gate":4, "channel":5}
 
-# create dataset file:
-# f = h5py.File("dataset.hdf5", "w")
 
-# get label text
 text = ''
 for filename in os.listdir('labels'):
     f = open(os.path.join('labels', filename), 'r')
