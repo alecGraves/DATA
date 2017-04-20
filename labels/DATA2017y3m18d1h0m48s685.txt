@@ -1,4 +1,4 @@
-﻿Number of labels: 153https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0013.jpg
+﻿https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0013.jpg
 start_gate 267 232 436 327
 
 

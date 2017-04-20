@@ -1,4 +1,4 @@
-﻿Number of labels: 201https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0256.jpg
+﻿https://github.com/shadySource/DATA/raw/master/underwater_5/SONIA_AUV_-_2nd_Qualifying_run_-_Robosub_2010_0256.jpg
 channel 12 177 146 266
 red_buoy 13 301 91 383
 green_buoy 344 219 409 292
