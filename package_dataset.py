@@ -1,7 +1,7 @@
 '''
     This program packages the labels and images 
 from the underwater dataset and converts them 
-to a hdf5 database file.
+to an hdf5 database file.
 
     Thanks, Thomas, for labeling all of those images.
         -shadySource
@@ -12,7 +12,7 @@ import h5py
 import PIL.Image
 import numpy as np
 
-
+debug = False #only load 10 images
 
 label_dict = {"red_buoy":0, "green_buoy":1, "yellow_buoy":2, 
             "path_marker":3, "start_gate":4, "channel":5}
@@ -59,12 +59,16 @@ images = []
 for i, label in enumerate(image_labels):
     img = np.array(PIL.Image.open(os.path.join('data', label[0][0], label[0][1])))
     images.append(img)
+    if debug and i == 9:
+        break
 
 #convert to numpy for saving
 images = np.asarray(images)
-image_labels = [np.asarray(i[1:]) for i in image_labels]# remove the file names
+image_labels = [np.array(i[1]) for i in image_labels]# remove the file names
+image_labels = np.array(image_labels)
 
 print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
+
 #save dataset
 split = int(len(images)*.8)
 
@@ -76,8 +80,8 @@ test = f.create_group("test")
 train_images = train.create_dataset("images", data=images[:split])
 test_images = test.create_dataset("images", data=images[split:])
 
-dt = h5py.special_dtype(vlen=np.dtype('int32'))
-train_boxes = train.create_dataset("boxes", (len(image_labels[:split]),), dtype=dt)
+dt = h5py.special_dtype(vlen=np.int32)
+train_boxes = train.create_dataset("boxes", (len(images[:split]),), dtype=dt)
 train_boxes[:split] = image_labels[:split]
-test_boxes = test.create_dataset("boxes", (len(image_labels[split:]),), dtype=dt)
+test_boxes = test.create_dataset("boxes", (len(images[split:]),), dtype=dt)
 train_boxes[split:] = image_labels[split:]
