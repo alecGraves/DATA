@@ -62,26 +62,37 @@ for i, label in enumerate(image_labels):
     if debug and i == 9:
         break
 
+#shuffle dataset
+np.random.seed = 13
+shuffle = [(images[i], image_labels[i]) for i in range(len(images))]
+np.random.shuffle(shuffle)
+images = [pair[0] for pair in shuffle]
+image_labels = [pair[1] for pair in shuffle]
+
 #convert to numpy for saving
 images = np.asarray(images)
 image_labels = [np.array(i[1]) for i in image_labels]# remove the file names
 image_labels = np.array(image_labels)
 
-print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
+
 
 #save dataset
-split = int(len(images)*.8)
+print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
+
+train_percent = .9
+split = int(len(images)*train_percent)
+
 
 f = h5py.File("underwater.hdf5", "w")
 
 train = f.create_group("train")
-test = f.create_group("test")
+val = f.create_group("val")
 
 train_images = train.create_dataset("images", data=images[:split])
-test_images = test.create_dataset("images", data=images[split:])
+val_images = val.create_dataset("images", data=images[split:])
 
 dt = h5py.special_dtype(vlen=np.int32)
 train_boxes = train.create_dataset("boxes", (len(images[:split]),), dtype=dt)
 train_boxes[:split] = image_labels[:split]
-test_boxes = test.create_dataset("boxes", (len(images[split:]),), dtype=dt)
+val_boxes = val.create_dataset("boxes", (len(images[split:]),), dtype=dt)
 train_boxes[split:] = image_labels[split:]
