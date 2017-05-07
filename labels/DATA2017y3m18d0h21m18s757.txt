@@ -1,4 +1,4 @@
-﻿https://github.com/shadySource/DATA/raw/master/underwater_3/GOPR2923_204.jpg
+https://github.com/shadySource/DATA/raw/master/underwater_3/GOPR2923_204.jpg
 path_marker 475 111 475 111
 path_marker 247 126 136 300
 

@@ -1,4 +1,4 @@
-﻿https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_085.jpg
+https://github.com/shadySource/DATA/raw/master/underwater_1/2013_AUVSI_Robosub_Competition_Recap_085.jpg
 yellow_buoy 163 111 200 151
 red_buoy 305 125 335 154
 green_buoy 433 66 460 91

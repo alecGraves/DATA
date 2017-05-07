@@ -21,18 +21,15 @@ label_dict = {"red_buoy":0, "green_buoy":1, "yellow_buoy":2,
 text = ''
 for filename in os.listdir('labels'):
     f = open(os.path.join('labels', filename), 'r')
-    text += f.read()[3:] # index to remove garbage at beginning of files
+    text += f.read()[:]
 text = text.replace('\n\n\n','\n\n')
 image_labels = text.split('\n\n')
 image_labels = [i.split('\n') for i in image_labels]
 
 dataset_start = image_labels[0][0].find('underwater') # where the URL becomes = to path
-
 for i, s in enumerate(image_labels):# all labels
     if 'http' in s[0]:
-
         image_labels[i][0] = s[0][dataset_start:].split("/") #  replace with path strings, easier to get to
-
         for j, box in enumerate(s):# box positions
             if j != 0: # not the path string
                 box = box.split(' ')
@@ -71,9 +68,9 @@ image_labels = [pair[1] for pair in shuffle]
 
 
 #convert to numpy for saving
-images = np.asarray(images)
+images = np.asarray(images, dtype=np.uint8)
 image_labels = [np.array(i[1:]) for i in image_labels]# remove the file names
-image_labels = np.array(image_labels, dtype=object)
+image_labels = np.array(image_labels)
 
 
 
@@ -86,10 +83,14 @@ f = h5py.File("underwater.hdf5", "w")
 
 train = f.create_group("train")
 
-
 vlen_int_dt = h5py.special_dtype(vlen=np.dtype(int))  # variable length default int
 
 train_images = train.create_dataset("images", data=images, dtype=np.dtype('uint8'))
 train_boxes = train.create_dataset("boxes", shape=(len(image_labels), ), dtype=vlen_int_dt)
-train_boxes = image_labels
+for i, label in enumerate(image_labels):
+    train_boxes[i] = label
 
+f.close()
+
+data = h5py.File('underwater.hdf5', 'r')
+print(np.array(data['train/boxes'])[0])
