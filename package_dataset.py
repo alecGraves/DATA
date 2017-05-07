@@ -29,12 +29,12 @@ image_labels = [i.split('\n') for i in image_labels]
 dataset_start = image_labels[0][0].find('underwater') # where the URL becomes = to path
 
 for i, s in enumerate(image_labels):# all labels
-    if 'http' in s[0]: # replace with path strings, easier to get to
+    if 'http' in s[0]:
 
-        image_labels[i][0] = s[0][dataset_start:].split("/")
+        image_labels[i][0] = s[0][dataset_start:].split("/") #  replace with path strings, easier to get to
 
         for j, box in enumerate(s):# box positions
-            if j != 0: # not the URL
+            if j != 0: # not the path string
                 box = box.split(' ')
 
                 box[0] = label_dict[box[0]] # convert labels to ints
@@ -53,7 +53,6 @@ for i, s in enumerate(image_labels):# all labels
     else: # first label is not a URL
         del image_labels[i] #invalid label
 
-
 # load images
 images = []
 for i, label in enumerate(image_labels):
@@ -63,36 +62,34 @@ for i, label in enumerate(image_labels):
         break
 
 #shuffle dataset
-np.random.seed = 13
+np.random.seed(13)
 shuffle = [(images[i], image_labels[i]) for i in range(len(images))]
 np.random.shuffle(shuffle)
 images = [pair[0] for pair in shuffle]
 image_labels = [pair[1] for pair in shuffle]
 
+
+
 #convert to numpy for saving
 images = np.asarray(images)
-image_labels = [np.array(i[1]) for i in image_labels]# remove the file names
-image_labels = np.array(image_labels)
+image_labels = [np.array(i[1:]) for i in image_labels]# remove the file names
+image_labels = np.array(image_labels, dtype=object)
+
+
 
 
 
 #save dataset
 print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
 
-train_percent = .9
-split = int(len(images)*train_percent)
-
-
 f = h5py.File("underwater.hdf5", "w")
 
 train = f.create_group("train")
-val = f.create_group("val")
 
-train_images = train.create_dataset("images", data=images[:split])
-val_images = val.create_dataset("images", data=images[split:])
 
-dt = h5py.special_dtype(vlen=np.int32)
-train_boxes = train.create_dataset("boxes", (len(images[:split]),), dtype=dt)
-train_boxes[:split] = image_labels[:split]
-val_boxes = val.create_dataset("boxes", (len(images[split:]),), dtype=dt)
-train_boxes[split:] = image_labels[split:]
+vlen_int_dt = h5py.special_dtype(vlen=np.dtype(int))  # variable length default int
+
+train_images = train.create_dataset("images", data=images, dtype=np.dtype('uint8'))
+train_boxes = train.create_dataset("boxes", shape=(len(image_labels), ), dtype=vlen_int_dt)
+train_boxes = image_labels
+
