@@ -8,7 +8,7 @@ to an hdf5 database file.
 '''
 import os
 import sys
-import h5py
+import json
 import PIL.Image
 import numpy as np
 
@@ -72,25 +72,7 @@ images = np.asarray(images, dtype=np.uint8)
 image_labels = [np.array(i[1:]) for i in image_labels]# remove the file names
 image_labels = np.array(image_labels)
 
-
-
-
-
 #save dataset
-print(sys.getsizeof(images) + sys.getsizeof(image_labels), "bytes")
-
-f = h5py.File("underwater.hdf5", "w")
-
-train = f.create_group("train")
-
-vlen_int_dt = h5py.special_dtype(vlen=np.dtype(int))  # variable length default int
-
-train_images = train.create_dataset("images", data=images, dtype=np.dtype('uint8'))
-train_boxes = train.create_dataset("boxes", shape=(len(image_labels), ), dtype=vlen_int_dt)
-for i, label in enumerate(image_labels):
-    train_boxes[i] = label
-
-f.close()
-
-data = h5py.File('underwater.hdf5', 'r')
-print(np.array(data['train/boxes'])[0])
+print('Saving Data')
+np.savez("underwater_data", images=images, boxes=image_labels)
+print('Data saved: underwater_data.npz')
