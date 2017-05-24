@@ -1,0 +1,6 @@
+red_buoy
+green_buoy
+yellow_buoy
+path_marker
+start_gate
+channel
