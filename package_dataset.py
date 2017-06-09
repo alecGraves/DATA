@@ -1,7 +1,7 @@
 '''
     This program packages the labels and images 
 from the underwater dataset and converts them 
-to an hdf5 database file.
+to a .npz numpy array file.
 
     Thanks, Thomas, for labeling all of those images.
         -shadySource
