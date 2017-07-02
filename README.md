@@ -1,4 +1,4 @@
-u# DATA
+# DATA
 contains image data and labels to be used with machine learning. Labels are gathered with custom javascript tool found [here](https://github.com/shadySource/shadysource.github.io).
 
 ## Build Dataset (much faster)
