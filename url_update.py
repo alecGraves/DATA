@@ -3,8 +3,12 @@ updates url.txt for the open data labeling tool on shadysource.github.io
 """
 import os
 
-os.remove('url.txt')
+try:
+    os.remove('url.txt')
+except:
+    pass
 dirs = os.listdir('data')
+dirs.sort()
 
 for i in dirs:
     if '.' in i:
