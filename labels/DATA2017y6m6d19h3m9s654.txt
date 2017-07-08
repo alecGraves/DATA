@@ -1,0 +1,655 @@
+﻿https://github.com/shadySource/DATA/raw/master/data/aerial_6/655.jpg
+red_buoy 125 309 165 329
+red_buoy 52 294 76 306
+red_buoy 571 317 619 342
+path_marker 155 236 187 253
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/690.jpg
+red_buoy 13 132 43 148
+red_buoy 389 159 437 180
+red_buoy 516 160 561 181
+green_buoy 105 128 127 141
+green_buoy 377 133 403 147
+yellow_buoy 45 48 70 138
+yellow_buoy 265 37 311 180
+yellow_buoy 494 54 528 166
+path_marker 382 80 415 98
+path_marker 615 110 640 136
+path_marker 214 79 252 93
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/694.jpg
+red_buoy 89 370 149 400
+green_buoy 15 363 73 391
+green_buoy 38 394 121 436
+green_buoy 212 351 256 377
+green_buoy 360 360 410 387
+yellow_buoy 195 180 280 447
+path_marker 394 259 465 289
+path_marker 513 77 613 125
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/623.jpg
+red_buoy 319 165 377 190
+green_buoy 1 155 18 170
+path_marker 453 128 533 158
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/619.jpg
+red_buoy 51 164 83 181
+red_buoy 215 157 241 172
+red_buoy 550 170 587 192
+red_buoy 465 155 490 168
+green_buoy 237 159 260 171
+green_buoy 608 171 639 190
+path_marker 549 103 579 120
+path_marker 235 104 265 120
+path_marker 39 106 78 120
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/658.jpg
+red_buoy 2 96 34 110
+red_buoy 148 95 175 109
+red_buoy 456 120 495 140
+green_buoy 160 94 184 109
+green_buoy 390 100 415 111
+path_marker 171 43 207 57
+path_marker 488 50 520 66
+path_marker 379 48 404 61
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/657.jpg
+green_buoy 39 101 141 139
+green_buoy 198 114 304 159
+green_buoy 480 64 534 88
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/656.jpg
+red_buoy 341 198 378 214
+red_buoy 18 172 47 187
+green_buoy 31 171 53 186
+green_buoy 270 177 293 188
+path_marker 368 128 403 146
+path_marker 41 121 82 136
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/642.jpg
+red_buoy 346 200 384 219
+red_buoy 278 182 302 193
+red_buoy 30 187 59 200
+green_buoy 39 182 66 199
+path_marker 55 132 90 147
+path_marker 274 134 297 148
+path_marker 375 131 409 145
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/699.jpg
+path_marker 165 345 229 373
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/659.jpg
+red_buoy 94 128 128 143
+red_buoy 242 126 269 140
+red_buoy 550 149 586 167
+green_buoy 250 124 275 137
+green_buoy 482 128 505 140
+path_marker 265 74 302 88
+path_marker 75 69 114 84
+path_marker 578 80 612 100
+path_marker 472 82 499 96
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/697.jpg
+red_buoy 135 225 216 260
+red_buoy 188 222 274 258
+green_buoy 247 216 316 251
+green_buoy 385 187 443 215
+yellow_buoy 110 14 187 253
+path_marker 398 87 465 110
+path_marker 422 132 513 186
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/639.jpg
+red_buoy 452 234 561 283
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/686.jpg
+red_buoy 86 149 137 175
+red_buoy 307 150 361 173
+red_buoy 565 125 598 141
+green_buoy 132 117 158 129
+green_buoy 580 132 615 150
+green_buoy 532 126 569 142
+yellow_buoy 176 23 222 165
+yellow_buoy 214 41 243 144
+path_marker 129 67 167 81
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/692.jpg
+red_buoy 378 294 409 311
+green_buoy 325 293 356 310
+green_buoy 316 307 357 327
+green_buoy 491 290 517 305
+yellow_buoy 425 210 449 301
+yellow_buoy 527 200 572 340
+path_marker 565 238 596 256
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/631.jpg
+red_buoy 107 91 145 109
+red_buoy 557 103 613 128
+red_buoy 41 72 65 86
+path_marker 135 20 172 39
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/674.jpg
+red_buoy 202 309 256 334
+red_buoy 505 270 538 284
+green_buoy 475 270 510 287
+green_buoy 518 274 555 290
+green_buoy 16 277 41 288
+yellow_buoy 351 183 391 300
+path_marker 240 246 286 272
+path_marker 225 221 255 232
+path_marker 8 225 36 240
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/649.jpg
+red_buoy 99 236 135 252
+red_buoy 541 263 592 287
+red_buoy 31 214 53 226
+path_marker 127 163 159 181
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/634.jpg
+red_buoy 131 80 169 98
+red_buoy 579 91 637 119
+red_buoy 63 61 89 75
+path_marker 160 10 195 25
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/600.jpg
+red_buoy 19 7 64 30
+red_buoy 537 51 614 88
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/641.jpg
+red_buoy 176 250 216 268
+red_buoy 106 228 134 240
+red_buoy 625 277 640 299
+path_marker 205 177 241 193
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/630.jpg
+red_buoy 254 92 313 121
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/610.jpg
+red_buoy 98 56 184 101
+red_buoy 75 10 123 39
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/633.jpg
+red_buoy 135 195 174 218
+red_buoy 67 180 92 194
+red_buoy 582 213 639 240
+path_marker 161 129 200 146
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/617.jpg
+red_buoy 100 18 183 51
+green_buoy 469 21 538 52
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/695.jpg
+red_buoy 35 41 70 54
+red_buoy 435 56 477 74
+red_buoy 462 56 504 75
+green_buoy 545 53 584 73
+green_buoy 585 41 615 54
+green_buoy 332 38 360 53
+green_buoy 184 36 208 47
+green_buoy 5 37 32 48
+green_buoy 29 57 64 71
+yellow_buoy 46 0 86 77
+yellow_buoy 104 0 125 41
+yellow_buoy 431 0 465 70
+path_marker 578 12 629 40
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/684.jpg
+red_buoy 508 95 615 147
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/679.jpg
+red_buoy 51 155 112 184
+red_buoy 408 151 472 180
+green_buoy 196 100 217 111
+yellow_buoy 117 30 150 124
+yellow_buoy 441 14 487 144
+path_marker 399 79 450 104
+path_marker 385 53 413 66
+path_marker 170 50 203 65
+path_marker 1 51 35 65
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/624.jpg
+red_buoy 441 314 508 340
+path_marker 387 195 462 223
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/625.jpg
+red_buoy 13 16 86 50
+green_buoy 218 8 293 40
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/606.jpg
+red_buoy 290 430 336 454
+red_buoy 45 397 70 410
+red_buoy 35 398 60 412
+green_buoy 435 420 468 437
+path_marker 355 352 395 374
+path_marker 0 333 72 379
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/643.jpg
+red_buoy 455 258 494 275
+red_buoy 386 238 411 252
+red_buoy 138 244 166 260
+red_buoy 0 251 24 268
+green_buoy 152 244 176 258
+path_marker 157 191 200 208
+path_marker 483 186 518 202
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/647.jpg
+red_buoy 95 347 134 366
+red_buoy 534 360 590 386
+green_buoy 25 330 50 340
+path_marker 125 274 154 291
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/664.jpg
+red_buoy 6 402 35 420
+red_buoy 192 419 232 440
+red_buoy 343 419 385 438
+red_buoy 477 409 514 425
+green_buoy 442 406 474 422
+green_buoy 469 411 503 430
+green_buoy 244 399 271 412
+green_buoy 79 400 108 413
+yellow_buoy 370 345 412 446
+yellow_buoy 542 321 576 424
+path_marker 89 339 123 353
+path_marker 265 335 293 350
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/608.jpg
+red_buoy 68 79 94 92
+red_buoy 153 76 174 90
+red_buoy 215 101 255 120
+green_buoy 483 90 514 104
+path_marker 128 30 165 43
+path_marker 344 10 464 52
+path_marker 451 26 485 47
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/672.jpg
+red_buoy 30 15 129 57
+red_buoy 372 0 449 19
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/651.jpg
+red_buoy 42 206 74 220
+red_buoy 512 221 550 241
+red_buoy 442 200 465 213
+red_buoy 193 203 222 216
+green_buoy 205 200 230 213
+path_marker 213 148 255 164
+path_marker 540 150 579 168
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/667.jpg
+red_buoy 176 389 268 429
+red_buoy 590 390 639 430
+green_buoy 312 343 365 370
+yellow_buoy 377 236 471 437
+path_marker 8 234 76 264
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/645.jpg
+red_buoy 29 146 67 163
+red_buoy 472 148 527 173
+path_marker 49 73 90 89
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/660.jpg
+red_buoy 175 270 197 282
+red_buoy 243 291 280 310
+path_marker 273 221 298 238
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/611.jpg
+red_buoy 54 130 85 144
+red_buoy 84 143 122 162
+red_buoy 292 130 319 147
+red_buoy 447 156 487 176
+red_buoy 356 130 377 142
+green_buoy 202 132 232 147
+green_buoy 45 129 75 141
+path_marker 77 58 200 106
+path_marker 335 81 373 94
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/666.jpg
+red_buoy 128 49 173 68
+red_buoy 298 32 332 47
+green_buoy 258 33 290 48
+green_buoy 293 38 332 55
+green_buoy 10 27 37 40
+yellow_buoy 75 0 116 72
+yellow_buoy 332 0 367 51
+path_marker 260 0 313 21
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/653.jpg
+red_buoy 269 98 345 130
+red_buoy 133 56 181 77
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/605.jpg
+green_buoy 201 35 281 70
+green_buoy 605 31 640 60
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/646.jpg
+red_buoy 126 168 165 186
+red_buoy 568 187 624 211
+red_buoy 55 149 82 160
+path_marker 151 96 186 113
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/636.jpg
+red_buoy 397 416 466 438
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/637.jpg
+red_buoy 123 115 161 135
+red_buoy 53 102 79 113
+red_buoy 565 121 617 146
+path_marker 150 45 181 60
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/654.jpg
+red_buoy 189 49 292 94
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/627.jpg
+red_buoy 134 146 168 163
+red_buoy 285 140 313 153
+red_buoy 599 148 636 164
+red_buoy 530 130 558 143
+green_buoy 300 139 322 150
+path_marker 305 86 345 100
+path_marker 105 90 147 106
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/670.jpg
+red_buoy 16 172 111 221
+red_buoy 515 172 608 218
+green_buoy 202 116 250 144
+yellow_buoy 94 12 178 214
+path_marker 222 9 289 45
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/677.jpg
+red_buoy 459 217 581 272
+yellow_buoy 500 0 557 160
+yellow_buoy 23 18 136 238
+path_marker 346 16 439 46
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/688.jpg
+red_buoy 395 396 453 425
+green_buoy 531 390 581 416
+green_buoy 198 402 261 430
+green_buoy 105 420 186 455
+yellow_buoy 434 222 482 408
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/635.jpg
+red_buoy 57 100 125 130
+red_buoy 348 89 405 113
+green_buoy 375 88 420 110
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/698.jpg
+red_buoy 317 282 355 300
+green_buoy 363 293 404 318
+green_buoy 571 279 600 295
+green_buoy 501 274 526 290
+green_buoy 286 271 312 289
+yellow_buoy 208 184 250 314
+yellow_buoy 395 191 419 283
+path_marker 475 112 527 138
+path_marker 423 220 455 239
+path_marker 592 220 620 239
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/652.jpg
+green_buoy 0 156 109 204
+green_buoy 295 93 353 121
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/621.jpg
+red_buoy 150 10 207 38
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/665.jpg
+red_buoy 468 206 501 221
+green_buoy 544 206 574 220
+green_buoy 404 215 435 228
+green_buoy 396 221 433 237
+yellow_buoy 331 106 359 221
+yellow_buoy 396 126 427 230
+path_marker 565 147 605 164
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/650.jpg
+red_buoy 265 79 343 115
+red_buoy 126 35 175 60
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/613.jpg
+red_buoy 245 217 289 238
+red_buoy 2 194 27 208
+green_buoy 330 199 365 213
+path_marker 285 136 319 155
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/673.jpg
+red_buoy 326 128 358 143
+red_buoy 605 160 639 187
+green_buoy 385 126 415 141
+green_buoy 146 140 184 155
+green_buoy 96 145 137 160
+yellow_buoy 248 38 279 142
+yellow_buoy 525 55 555 150
+yellow_buoy 554 73 598 180
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/687.jpg
+red_buoy 608 157 639 180
+red_buoy 240 124 266 138
+green_buoy 297 119 323 134
+green_buoy 122 125 155 143
+green_buoy 72 134 111 157
+yellow_buoy 253 37 277 131
+path_marker 465 71 502 88
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/661.jpg
+red_buoy 136 375 177 395
+red_buoy 70 355 93 367
+red_buoy 609 412 640 441
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/669.jpg
+red_buoy 63 418 108 440
+red_buoy 299 420 344 443
+red_buoy 510 408 539 421
+green_buoy 145 392 171 406
+green_buoy 470 406 503 422
+green_buoy 514 414 552 430
+yellow_buoy 486 320 524 427
+yellow_buoy 111 338 152 439
+path_marker 161 341 187 355
+path_marker 0 338 21 350
+path_marker 389 372 431 397
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/691.jpg
+red_buoy 53 158 98 181
+red_buoy 160 160 201 180
+red_buoy 548 150 585 167
+green_buoy 328 142 359 159
+green_buoy 348 153 387 172
+green_buoy 25 137 52 150
+yellow_buoy 144 56 177 168
+path_marker 266 112 308 139
+path_marker 245 87 278 101
+path_marker 32 80 65 99
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/615.jpg
+red_buoy 19 99 98 138
+red_buoy 140 66 193 91
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/607.jpg
+red_buoy 81 74 135 101
+red_buoy 179 70 227 96
+red_buoy 484 130 565 170
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/609.jpg
+red_buoy 152 352 193 377
+red_buoy 149 331 174 344
+red_buoy 39 334 68 350
+green_buoy 466 348 495 362
+path_marker 313 240 406 276
+path_marker 445 287 484 308
+path_marker 131 281 162 298
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/671.jpg
+red_buoy 41 106 91 132
+red_buoy 292 89 323 104
+green_buoy 253 89 285 107
+green_buoy 298 95 336 113
+yellow_buoy 222 0 258 113
+path_marker 114 53 157 80
+path_marker 99 29 128 42
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/628.jpg
+red_buoy 26 83 62 100
+red_buoy 468 90 526 117
+path_marker 54 11 87 31
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/644.jpg
+red_buoy 44 90 80 109
+red_buoy 485 98 541 120
+path_marker 71 19 105 34
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/682.jpg
+red_buoy 295 245 321 260
+green_buoy 340 243 365 259
+green_buoy 87 260 123 275
+green_buoy 21 267 60 285
+yellow_buoy 191 192 239 310
+yellow_buoy 317 161 344 257
+path_marker 563 191 590 208
+path_marker 395 10 449 0
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/620.jpg
+red_buoy 385 211 442 240
+green_buoy 9 205 48 222
+path_marker 461 175 545 206
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/612.jpg
+red_buoy 49 45 92 73
+green_buoy 215 28 250 48
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/676.jpg
+red_buoy 52 35 167 90
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/622.jpg
+red_buoy 347 81 402 108
+green_buoy 12 72 48 90
+path_marker 481 46 559 72
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/675.jpg
+red_buoy 61 153 115 182
+red_buoy 381 144 435 174
+green_buoy 189 108 214 120
+yellow_buoy 28 41 60 135
+yellow_buoy 508 21 552 140
+path_marker 406 81 451 106
+path_marker 389 55 421 70
+path_marker 180 59 208 72
+path_marker 9 60 40 76
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/683.jpg
+red_buoy 203 360 311 416
+green_buoy 395 276 444 303
+yellow_buoy 444 132 509 336
+path_marker 22 174 82 205
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/648.jpg
+red_buoy 493 254 603 306
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/678.jpg
+red_buoy 519 277 638 334
+yellow_buoy 7 70 112 296
+yellow_buoy 610 30 637 215
+path_marker 423 71 489 102
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/602.jpg
+red_buoy 53 22 92 43
+red_buoy 459 20 487 40
+red_buoy 540 20 565 35
+green_buoy 238 18 268 35
+green_buoy 93 11 122 25
+green_buoy 68 31 108 50
+green_buoy 8 18 43 39
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/668.jpg
+red_buoy 195 45 226 60
+red_buoy 422 66 465 89
+green_buoy 491 43 521 58
+green_buoy 265 47 293 58
+green_buoy 213 54 244 68
+green_buoy 94 52 127 67
+green_buoy 70 58 103 73
+yellow_buoy 55 0 85 60
+yellow_buoy 213 0 239 62
+yellow_buoy 496 0 537 90
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/604.jpg
+red_buoy 85 75 159 107
+red_buoy 57 44 111 68
+red_buoy 86 41 135 65
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/614.jpg
+red_buoy 124 123 170 149
+green_buoy 132 104 165 121
+path_marker 83 35 119 54
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/616.jpg
+red_buoy 255 147 283 161
+red_buoy 424 167 463 189
+red_buoy 443 148 473 163
+green_buoy 210 142 238 156
+green_buoy 45 150 85 168
+path_marker 306 93 341 112
+path_marker 135 88 169 104
+path_marker 469 71 555 118
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/618.jpg
+red_buoy 355 319 390 334
+red_buoy 459 320 491 335
+green_buoy 20 315 69 337
+green_buoy 40 296 76 311
+path_marker 280 251 324 273
+path_marker 493 266 531 285
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/680.jpg
+red_buoy 175 218 235 250
+red_buoy 533 216 594 247
+green_buoy 317 164 342 179
+yellow_buoy 265 96 295 190
+yellow_buoy 542 80 591 211
+path_marker 521 141 563 169
+path_marker 499 117 537 132
+path_marker 296 114 331 132
+path_marker 122 116 161 134
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/689.jpg
+yellow_buoy 28 37 151 270
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/662.jpg
+red_buoy 89 205 122 220
+red_buoy 206 206 234 220
+red_buoy 492 232 534 252
+red_buoy 437 211 462 224
+path_marker 235 155 271 170
+path_marker 53 148 93 165
+path_marker 437 165 460 178
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/629.jpg
+red_buoy 478 420 591 469
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/601.jpg
+red_buoy 138 61 217 95
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/693.jpg
+red_buoy 115 103 155 126
+red_buoy 176 102 219 123
+green_buoy 46 85 73 99
+green_buoy 315 101 353 119
+green_buoy 319 90 355 104
+yellow_buoy 156 3 195 120
+path_marker 294 60 341 86
+path_marker 277 36 305 50
+path_marker 51 28 87 46
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/626.jpg
+red_buoy 15 169 50 189
+red_buoy 454 179 511 202
+green_buoy 115 166 154 183
+path_marker 40 98 76 119
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_6/603.jpg
+red_buoy 155 274 195 290
+red_buoy 540 272 567 286
+red_buoy 586 270 612 283
+green_buoy 291 267 320 283
+green_buoy 193 265 223 278
+green_buoy 82 279 123 297
+green_buoy 103 270 143 287
+path_marker 395 215 431 231
+path_marker 569 217 601 235

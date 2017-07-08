@@ -27,12 +27,11 @@ image_labels = text.split('\n\n')
 image_labels = [i.split('\n') for i in image_labels]
 
 for i, s in enumerate(image_labels):# all labels
-    dataset_start = image_labels[i][0].find('data') # where the URL becomes = to path
+    dataset_start = s[0].find('data') # where the URL becomes = to path
     image_labels[i][0] = s[0][dataset_start:].split("/") # replace with path strings, easier to get to
     for j, box in enumerate(s):# box positions
         if j != 0: # not the path string
             box = box.split(' ')
-
             box[0] = label_dict[box[0]] # convert labels to ints
 
             for k in  range(1, 5): # Change box boundaries from str to int
@@ -48,14 +47,18 @@ for i, s in enumerate(image_labels):# all labels
 
 # load images
 images = []
+history = np.array(PIL.Image.open(os.path.join(image_labels[0][0][0], image_labels[0][0][1], image_labels[0][0][2])), dtype=np.uint8).shape
 for i, label in enumerate(image_labels):
-    img = np.array(PIL.Image.open(os.path.join(label[0][0], label[0][1], label[0][2])))
+    img = np.array(PIL.Image.open(os.path.join(label[0][0], label[0][1], label[0][2])).resize((640, 480)), dtype=np.uint8)
+    print(img.shape)
+    assert(img.shape == history)
     images.append(img)
     if debug and i == 9:
         break
 
 #convert to numpy for saving
-images = np.asarray(images, dtype=np.uint8)
+print(len(images))
+images = np.array(images, dtype=np.uint8)
 image_labels = [np.array(i[1:]) for i in image_labels]# remove the file names
 image_labels = np.array(image_labels)
 

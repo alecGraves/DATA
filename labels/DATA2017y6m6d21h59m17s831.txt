@@ -1,0 +1,25 @@
+﻿https://github.com/shadySource/DATA/raw/master/data/aerial_9/914.jpg
+path_marker 294 33 452 62
+yellow_buoy 424 170 450 60
+red_buoy 506 182 536 168
+path_marker 514 99 541 112
+green_buoy 296 191 349 222
+red_buoy 142 216 207 248
+yellow_buoy 249 175 223 106
+green_buoy 202 179 172 161
+red_buoy 128 193 93 174
+green_buoy 0 156 22 165
+red_buoy 198 128 207 135
+green_buoy 220 135 206 128
+red_buoy 199 135 189 128
+red_buoy 191 133 177 127
+red_buoy 190 133 206 140
+green_buoy 224 133 236 127
+red_buoy 252 135 239 128
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_9/971.jpg
+yellow_buoy 546 204 498 95
+green_buoy 122 265 52 232
+
+https://github.com/shadySource/DATA/raw/master/data/aerial_9/960.jpg
+green_buoy 0 1 326 271
