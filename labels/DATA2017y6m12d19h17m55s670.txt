@@ -1,0 +1,351 @@
+﻿https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2310.jpg
+start_gate 169 27 639 336
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1650.jpg
+start_gate 467 38 142 256
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3760.jpg
+start_gate 546 85 144 402
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2360.jpg
+start_gate 558 56 80 367
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4830.jpg
+start_gate 567 190 567 190
+start_gate 502 23 294 476
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4120.jpg
+start_gate 498 36 144 300
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4100.jpg
+start_gate 135 61 498 363
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5600.jpg
+green_buoy 459 194 494 240
+red_buoy 426 86 454 125
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2080.jpg
+start_gate 2 23 80 288
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2290.jpg
+start_gate 635 25 189 383
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3740.jpg
+start_gate 549 98 142 392
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5290.jpg
+green_buoy 419 251 444 286
+red_buoy 355 228 381 254
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5420.jpg
+green_buoy 379 124 414 167
+red_buoy 316 78 340 117
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1130.jpg
+green_buoy 313 322 412 442
+red_buoy 560 4 637 116
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5280.jpg
+green_buoy 475 56 504 84
+red_buoy 411 53 434 81
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2480.jpg
+start_gate 19 16 585 388
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4290.jpg
+start_gate 512 2 44 408
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1240.jpg
+green_buoy 372 321 493 460
+red_buoy 89 6 196 121
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1710.jpg
+start_gate 170 35 532 283
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4320.jpg
+start_gate 516 120 57 461
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2470.jpg
+start_gate 20 5 567 380
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5610.jpg
+green_buoy 445 400 488 450
+red_buoy 374 327 412 375
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1250.jpg
+green_buoy 304 302 452 441
+red_buoy 4 2 104 130
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1370.jpg
+red_buoy 636 268 548 119
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5810.jpg
+green_buoy 432 182 482 257
+red_buoy 296 75 344 129
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4300.jpg
+start_gate 512 374 26 29
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1310.jpg
+green_buoy 276 209 388 359
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1120.jpg
+green_buoy 460 477 364 440
+red_buoy 602 89 640 199
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5190.jpg
+green_buoy 378 123 395 152
+red_buoy 324 99 354 123
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2400.jpg
+start_gate 546 52 40 444
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2460.jpg
+start_gate 63 8 618 374
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4130.jpg
+start_gate 128 48 490 296
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3430.jpg
+start_gate 576 68 11 426
+green_buoy 241 128 253 148
+red_buoy 197 116 208 134
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1720.jpg
+start_gate 522 60 164 332
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3750.jpg
+start_gate 550 97 152 432
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2490.jpg
+start_gate 40 8 604 388
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5270.jpg
+green_buoy 444 92 479 120
+red_buoy 381 77 412 104
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1360.jpg
+red_buoy 430 71 532 208
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1360.jpg
+red_buoy 424 74 536 215
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1330.jpg
+green_buoy 349 200 447 335
+red_buoy 32 16 0 132
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3930.jpg
+start_gate 559 100 192 380
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3940.jpg
+start_gate 576 128 208 436
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5790.jpg
+green_buoy 504 155 553 224
+red_buoy 354 88 402 137
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1620.jpg
+start_gate 134 3 448 214
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3920.jpg
+start_gate 555 73 191 336
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4310.jpg
+start_gate 483 104 24 473
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1740.jpg
+start_gate 536 39 172 349
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2510.jpg
+start_gate 632 20 52 434
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5310.jpg
+green_buoy 431 245 464 272
+red_buoy 380 197 404 228
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5830.jpg
+green_buoy 424 128 476 210
+red_buoy 268 38 315 104
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1280.jpg
+green_buoy 344 264 458 407
+red_buoy 1 43 60 194
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5300.jpg
+green_buoy 385 290 412 321
+red_buoy 324 264 349 291
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3340.jpg
+start_gate 285 4 633 448
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5800.jpg
+green_buoy 508 178 564 254
+red_buoy 381 56 422 112
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5100.jpg
+green_buoy 595 119 616 149
+red_buoy 557 98 575 120
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1180.jpg
+green_buoy 361 238 480 397
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2350.jpg
+start_gate 588 59 112 393
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2300.jpg
+start_gate 165 12 627 362
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1670.jpg
+start_gate 119 16 460 252
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3600.jpg
+start_gate 148 4 639 364
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2500.jpg
+start_gate 39 17 606 415
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3470.jpg
+start_gate 64 125 639 471
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3370.jpg
+start_gate 255 4 636 473
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1340.jpg
+green_buoy 474 164 563 300
+red_buoy 48 4 180 85
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5260.jpg
+green_buoy 449 227 477 259
+red_buoy 396 195 417 224
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1730.jpg
+start_gate 518 36 157 368
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1160.jpg
+red_buoy 428 87 515 189
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3860.jpg
+start_gate 183 2 583 293
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1270.jpg
+green_buoy 433 271 550 423
+red_buoy 61 36 195 161
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1300.jpg
+green_buoy 290 228 415 380
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2340.jpg
+start_gate 156 11 636 350
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5210.jpg
+green_buoy 344 128 374 158
+red_buoy 292 104 322 135
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1630.jpg
+start_gate 117 4 440 216
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV2370.jpg
+start_gate 492 64 8 423
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1750.jpg
+start_gate 526 32 157 353
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4110.jpg
+start_gate 162 22 530 266
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5820.jpg
+green_buoy 385 165 442 244
+red_buoy 242 54 288 116
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1290.jpg
+green_buoy 303 245 415 392
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5200.jpg
+green_buoy 364 104 390 132
+red_buoy 317 69 342 101
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5780.jpg
+green_buoy 420 132 472 195
+red_buoy 296 29 344 77
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1260.jpg
+green_buoy 379 316 500 454
+red_buoy 45 47 156 163
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3770.jpg
+start_gate 142 28 547 293
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4020.jpg
+start_gate 248 226 596 480
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1150.jpg
+red_buoy 454 79 529 175
+green_buoy 403 441 320 480
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1660.jpg
+start_gate 139 19 484 236
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1170.jpg
+red_buoy 385 28 464 116
+green_buoy 307 401 406 480
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1190.jpg
+green_buoy 352 208 482 376
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4150.jpg
+start_gate 499 78 136 390
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV3810.jpg
+start_gate 156 144 540 440
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5180.jpg
+green_buoy 354 164 383 192
+red_buoy 314 133 336 168
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1640.jpg
+start_gate 137 6 458 228
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1350.jpg
+red_buoy 214 4 341 113
+green_buoy 588 339 640 479
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4140.jpg
+start_gate 139 51 513 284
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4080.jpg
+start_gate 240 35 600 282
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1320.jpg
+green_buoy 287 254 407 384
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5320.jpg
+green_buoy 436 167 462 199
+red_buoy 376 135 397 169
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1760.jpg
+start_gate 180 4 576 367
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4620.jpg
+start_gate 631 4 260 432
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5250.jpg
+green_buoy 443 117 472 149
+red_buoy 384 100 411 133
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1230.jpg
+green_buoy 397 292 515 457
+red_buoy 186 0 280 40
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV4090.jpg
+start_gate 191 36 563 313
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1700.jpg
+start_gate 124 0 504 243
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV1140.jpg
+red_buoy 560 224 637 332
+green_buoy 280 0 366 31
+
+https://github.com/shadySource/DATA/raw/master/data/AUV_11/V1000022.MOV5840.jpg
+green_buoy 379 221 433 296
+red_buoy 220 136 268 188
