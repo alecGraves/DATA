@@ -2,5 +2,3 @@ red_bot
 green_bot
 obstacle
 drone
-Oops
-I_forgot_to_remove_the_last_two
