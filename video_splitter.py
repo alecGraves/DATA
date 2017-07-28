@@ -16,6 +16,6 @@ for vid in vids:
     if vid[-4:].lower() == ".mp4":
         if not os.path.exists("split_vids"):
             os.makedirs("split_vids")
-        os.system('ffmpeg -i ' + os.path.join(videoDir, vid)  + ' -s  640x480 -r 1 ' + os.path.join("split_vids", vid[:-4]+'images%4d.jpg'))
+        os.system('ffmpeg -i ' + os.path.join(videoDir, vid)  + ' -s  640x480 -r 3 ' + os.path.join("split_vids", vid[:-4]+'images%4d.jpg'))
 
 
