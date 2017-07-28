@@ -50,16 +50,14 @@ images = []
 history = np.array(PIL.Image.open(os.path.join(image_labels[0][0][0], image_labels[0][0][1], image_labels[0][0][2])), dtype=np.uint8).shape
 for i, label in enumerate(image_labels):
     img = np.array(PIL.Image.open(os.path.join(label[0][0], label[0][1], label[0][2])).resize((640, 480)), dtype=np.uint8)
-    print(img.shape)
     assert(img.shape == history)
     images.append(img)
-    if debug and i == 9:
+    if debug and i >100:
         break
 
 #convert to numpy for saving
-print(len(images))
 images = np.array(images, dtype=np.uint8)
-image_labels = [np.array(i[1:]) for i in image_labels]# remove the file names
+image_labels = [np.array(image_labels[i][1:]) for i in range(images.shape[0])]# remove the file names
 image_labels = np.array(image_labels)
 
 #shuffle dataset
@@ -69,6 +67,7 @@ if shuffle:
     np.random.shuffle(indices)
     images, image_labels = images[indices], image_labels[indices]
 
+print("Dataset contains {} images".format(images.shape[0]))
 #save dataset
 np.savez("my_dataset", images=images, boxes=image_labels)
 print('Data saved: my_dataset.npz')
